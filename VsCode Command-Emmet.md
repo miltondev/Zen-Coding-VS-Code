@@ -1,10 +1,11 @@
-Official Page Emmet[![All the documentation about Emmet in his Official Page](https://readthedocs.org/projects/fiware-orion/badge/?version=latest)](https://docs.emmet.io/cheat-sheet/)
+Please Visit Official Page Emmet [![All the documentation about Emmet in his Official Page](https://readthedocs.org/projects/fiware-orion/badge/?version=latest)](https://docs.emmet.io/cheat-sheet/)
+**https://docs.emmet.io/cheat-sheet/**
 
 **Emmet is a web-developer’s toolkit that can greatly improve your HTML & CSS workflow , this plugin aviable in other text editor as Atom,Sublime-text , and visual studio code.**
 
 *In Visual Studio Code Emmet already installed
 
-**This is an ultra basic(noob) test for use the command Emmet to fast write web code**
+**This is a ultra basic(noob) test for use the command Emmet to fast write web code**
 **Ok let go**
 
 **html:5 + [TAB]**
@@ -58,3 +59,5 @@ div.divClass#divID + [TAB]
 ```
 <div class="divClass" id="divID"></div>
 ```
+
+For more Examples and information please visit Official page to Emmett
